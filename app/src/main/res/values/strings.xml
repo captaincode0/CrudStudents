@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrudStudents</string>
+    <string-array name="array_carriers">
+        <item>ISC</item>
+        <item>FN</item>
+        <item>MC</item>
+        <item>IEM</item>
+        <item>IAER</item>
+    </string-array>
+</resources>
